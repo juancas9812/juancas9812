@@ -6,7 +6,7 @@ Hey, I'm Juan Sarmiento, a final year electronics engineering student from the P
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me: 
   - Mail: juancas9812@gmail.com
-  - [Linkedin](https://www.linkedin.com/in/juancasarmiento/):https://www.linkedin.com/in/juancasarmiento/ 
+  - Linkedin: [juancasarmiento](https://www.linkedin.com/in/juancasarmiento/)
 
 <!--
 **juancas9812/juancas9812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
