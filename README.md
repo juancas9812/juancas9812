@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Hey, I'm Juan Sarmiento, a final year electronics engineering student from the Pontificia Universidad Javeriana. I have insterests in AI and ML, data science and signal processing.
+
+- 🔭 I’m currently working on Speech Enhancement
+- 🌱 I’m currently learning Data Science
+- 📫 How to reach me: 
+  - Mail: juancas9812@gmail.com
+  - [Linkedin](https://www.linkedin.com/in/juancasarmiento/):https://www.linkedin.com/in/juancasarmiento/ 
+
 <!--
 **juancas9812/juancas9812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
