@@ -6,6 +6,7 @@ Hey, I'm Juan Sarmiento, a final year electronics engineering student from the P
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me: 
   - Mail: juancas9812@gmail.com
+  - School mail: juan_sarmiento@javeriana.edu.co
   - Linkedin: [juancasarmiento](https://www.linkedin.com/in/juancasarmiento/)
 
 <!--
