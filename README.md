@@ -2,7 +2,9 @@
 
 Hey, I'm Juan Sarmiento, i'm currently a data scientist, working in NLP projects. I'm an electronics engineer from the Pontificia Universidad Javeriana. I have insterests in AI and ML, data science and signal processing.
 
-Check out my class notes (codes and scripts) on signal and image processing, AI/ML, and robotics in my repositories.
+Check out my repos on data science topics (Probability, Vectorized Algebra and Operations, CS Algorithims, Games, Machine Learning Algorithms).
+
+Check out also my class notes from university (codes and scripts) on signal and image processing, AI/ML, and robotics in my repositories.
 
 Checkout my latest project on speech enhancement: [Audio Inteligente](https://github.com/juancas9812/TG_Audio_Inteligente), which I presented as my undergraduate thesis at the Pontificia Universidad Javeriana.
 
