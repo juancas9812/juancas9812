@@ -2,7 +2,7 @@
 
 Hey, I'm Juan Sarmiento, i'm currently a data scientist, working in NLP projects. I'm an electronics engineer from the Pontificia Universidad Javeriana. I have insterests in AI and ML, data science and signal processing.
 
-Check out my repos on data science topics (Probability, Vectorized Algebra and Operations, CS Algorithims, Games, Machine Learning Algorithms).
+Check out my repos on data science topics (Probability, Linear Algebra and Vectorized Operations, CS Algorithims, Games, Machine Learning Algorithms).
 
 Check out also my class notes from university (codes and scripts) on signal and image processing, AI/ML, and robotics in my repositories.
 
