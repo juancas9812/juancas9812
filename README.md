@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hey, I'm Juan Sarmiento, a recent grad electronics engineer from the Pontificia Universidad Javeriana. I have insterests in AI and ML, data science and signal processing.
+Hey, I'm Juan Sarmiento, i'm currently a data scientist, working in NLP projects. I'm an electronics engineer from the Pontificia Universidad Javeriana. I have insterests in AI and ML, data science and signal processing.
 
 Check out my class notes (codes and scripts) on signal and image processing, AI/ML, and robotics in my repositories.
 
@@ -10,6 +10,8 @@ Checkout my latest project on speech enhancement: [Audio Inteligente](https://gi
 - 📫 How to reach me: 
   - Mail: juanca.sarmientop@gmail.com
   - School mail: juan_sarmiento@javeriana.edu.co
+  - Work mail: jsarmiento@asesoftware.com
+  - Work gitgub: [jcasarmiento](https://www.github.com/jcasarmiento)
   - Linkedin: [juancasarmiento](https://www.linkedin.com/in/juancasarmiento/)
 
 <!--
