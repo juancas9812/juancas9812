@@ -12,8 +12,6 @@ Checkout my latest project on speech enhancement: [Audio Inteligente](https://gi
 - 📫 How to reach me: 
   - Mail: juanca.sarmientop@gmail.com
   - School mail: juan_sarmiento@javeriana.edu.co
-  - Work mail: jsarmiento@asesoftware.com
-  - Work gitgub: [jcasarmiento](https://www.github.com/jcasarmiento)
   - Linkedin: [juancasarmiento](https://www.linkedin.com/in/juancasarmiento/)
 
 <!--
